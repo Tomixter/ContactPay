@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobPay</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_reading_card">Reading card</string>
+    <string name="txt_online_processing">Processing</string>
+    <string name="txt_tap_card">Tap Card</string>
+    <string name="desc_contactless_ripple">Contactless ripple</string>
+    <string name="servicedesc">MobPay</string>
+    <string name="aiddescription">Visa Card</string>
+    <string name="aid_ppse">325041592e5359532e4444463031</string>
+    <string name="aid_visa">A0000000031010</string>
+    <string name="txt_info">Info</string>
+    <string name="txt_log">Log</string>
+    <string name="txt_current">Card ending in #pan# is in use. Tap a new card to reset</string>
+    <string name="aid_mastercardcredit">A0000000041010</string>
+    <string name="aid_mastercardpaypass">A0000000049999</string>
+
+</resources>
